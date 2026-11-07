@@ -12,5 +12,5 @@
   - [speech-pipeline](https://github.com/Xasasan/speech-pipeline): speech processing pipeline
   - [mistral-trading-chatbot](https://huggingface.co/Xasan01/mistral-trading-chatbot): Mistral fine-tuned with QLoRA
 
-  📫 your-email: tursunboyevxasan077@gmail.com
-  🤗 huggingface account:(https://huggingface.co/Xasan01)
+  - 📫 your-email: tursunboyevxasan077@gmail.com
+  - 🤗 huggingface account:(https://huggingface.co/Xasan01)
