@@ -7,7 +7,7 @@
   - 🌱 Now building: a logistics support agent with function calling (Python, Gemini, FastAPI)
 
 ### Projects
-  ### Projects
+  
   - [hassan-voice-assistant](https://github.com/Xasasan/hassan-voice-assistant): voice assistant
   - [speech-pipeline](https://github.com/Xasasan/speech-pipeline): speech processing pipeline
   - [mistral-trading-chatbot](https://huggingface.co/Xasan01/mistral-trading-chatbot): Mistral fine-tuned with QLoRA
