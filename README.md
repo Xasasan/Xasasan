@@ -6,7 +6,7 @@
   - 🏆 iTube hackathon: built a RAG assistant in 48 h, 1st place
   - 🌱 Now building: a logistics support agent with function calling (Python, Gemini, FastAPI)
   - 📫 your-email: tursunboyevxasan077@gmail.com
-  - 🤗 huggingface account:(https://huggingface.com/Xasan01)
+  - 🤗 huggingface account:(https://huggingface.co/Xasan01)
 
 ### Projects
   
